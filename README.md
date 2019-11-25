@@ -3,4 +3,4 @@
 简单的用ajax+php+mysql实现了在线的聊天室，前端很简陋
 在dbconnect.php 中有数据库的表 和连接数据库的信息
 
-test url : https://sushome.cn/backup
+test url : http://sushome.cn/backup
